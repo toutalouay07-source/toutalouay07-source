@@ -1,20 +1,9 @@
-## 📊 GitHub Contributions
-<p align="center">
-  <img src="https://ghchart.rshah.org/toutalouay07-source" alt="GitHub Contribution Calendar"/>
-</p>
 
-<p align="center">
-  <b>🟩 Contribution Calendar</b><br>
-  <sub>My coding activity throughout the year</sub>
-</p>
-<br>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=toutalouay07-source&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" height="170"/>
   <img src="https://streak-stats.demolab.com?user=toutalouay07-source&hide_border=true&theme=transparent" height="170"/>
 </p>
-
 <br>
-
 <h1>Hi 👋, I'm louay</h1>
 <p>Software development student with a passion for artificial intelligence and local LLMs. I learn by building: every project I publish here represents another step in my portfolio. I am currently seeking an AI internship to gain hands-on experience working on real-world projects within a team.</p>
 <h2>🚀 Languages and Tools I Use</h2>
@@ -41,13 +30,4 @@
 <h2>⚡️ Where to find me</h2>
 <p><a target="_blank" href="https://www.instagram.com/sth_lwy" style="display: inline-block;"><img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=%23F35369" alt="instagram" /></a></p>
 <p><a target="_blank" href="https://toutalouay07-source.github.io/TLP/" style="display: inline-block;"><img src="https://img.shields.io/badge/dev-to?style=for-the-badge&logo=dev-to&logoColor=white&color=black" alt="dev.to" /></a></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=toutalouay07-source&" alt="toutalouay07-source" /></p>
-<br>
-<p align="center">
-  <a href="https://github.com/toutalouay07-source">
-    <img src="https://img.shields.io/github/followers/toutalouay07-source?label=Followers&style=flat-square" />
-  </a>
-  <a href="https://github.com/toutalouay07-source?tab=repositories">
-    <img src="https://img.shields.io/github/stars/toutalouay07-source?label=Stars&style=flat-square" />
-  </a>
-</p>
+
