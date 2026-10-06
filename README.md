@@ -23,6 +23,5 @@
 <a target="_blank" href="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" style="display: inline-block;"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="42" height="42" /></a></p>
 <h2>⚡️ Where to find me</h2>
 <p><a target="_blank" href="https://www.instagram.com/sth_lwy" style="display: inline-block;"><img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=%23F35369" alt="instagram" /></a></p>
-<p><a target="_blank" href="https://toutalouay07-source.github.io/TLP/"style="display: inline-block;"><img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=%23F35369](https://s3-figma-hubfile-images-production-cdn-cgi.figma.com/cdn-cgi/image/format=auto,quality=85/hub/file/carousel/img/5a495b4ab53b0ea412eb6db3601a443760f08da5/fe8b8e0bd3e4132989933b851c540757f9d2c35a)" alt="Portfolio" /></a></p>
-    
+<p><a target="_blank" href="https://dev.to/https://toutalouay07-source.github.io/TLP/" style="display: inline-block;"><img src="https://img.shields.io/badge/dev-to?style=for-the-badge&logo=dev-to&logoColor=white&color=black" alt="dev.to" /></a></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=toutalouay07-source&" alt="toutalouay07-source" /></p>
