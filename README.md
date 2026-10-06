@@ -1,12 +1,12 @@
 
-
+<h1>Hi 👋, I'm louay</h1>
+<p>Software development student with a passion for artificial intelligence and local LLMs. I learn by building: every project I publish here represents another step in my portfolio. I am currently seeking an AI internship to gain hands-on experience working on real-world projects within a team.</p>
+<br>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=toutalouay07-source&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" height="170"/>
   <img src="https://streak-stats.demolab.com?user=toutalouay07-source&hide_border=true&theme=transparent" height="170"/>
 </p>
 <br>
-<h1>Hi 👋, I'm louay</h1>
-<p>Software development student with a passion for artificial intelligence and local LLMs. I learn by building: every project I publish here represents another step in my portfolio. I am currently seeking an AI internship to gain hands-on experience working on real-world projects within a team.</p>
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="42" height="42" /></a>
