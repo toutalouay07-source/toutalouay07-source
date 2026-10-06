@@ -1,6 +1,32 @@
+## 📊 GitHub Contributions
+
 <p align="center">
-  <img src="/3d-city.gif" alt="3D City View Preview" width="100%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=toutalouay07-source&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" height="170"/>
+  <img src="https://streak-stats.demolab.com?user=toutalouay07-source&hide_border=true&theme=transparent" height="170"/>
 </p>
+
+<br>
+
+<p align="center">
+  <img src="https://ghchart.rshah.org/toutalouay07-source" alt="GitHub Contribution Calendar"/>
+</p>
+
+<p align="center">
+  <b>🟩 Contribution Calendar</b><br>
+  <sub>My coding activity throughout the year</sub>
+</p>
+
+<br>
+
+<p align="center">
+  <a href="https://github.com/toutalouay07-source">
+    <img src="https://img.shields.io/github/followers/toutalouay07-source?label=Followers&style=flat-square" />
+  </a>
+  <a href="https://github.com/toutalouay07-source?tab=repositories">
+    <img src="https://img.shields.io/github/stars/toutalouay07-source?label=Stars&style=flat-square" />
+  </a>
+</p>
+
 <h1>Hi 👋, I'm louay</h1>
 <p>Software development student with a passion for artificial intelligence and local LLMs. I learn by building: every project I publish here represents another step in my portfolio. I am currently seeking an AI internship to gain hands-on experience working on real-world projects within a team.</p>
 <h2>🚀 Languages and Tools I Use</h2>
