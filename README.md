@@ -1,3 +1,5 @@
+[![Contributions](https://ghchart.rshah.org/toutalouay07-source)](https://github.com/toutalouay07-source)
+
 <h1>Hi 👋, I'm louay</h1>
 <p>Software development student with a passion for artificial intelligence and local LLMs. I learn by building: every project I publish here represents another step in my portfolio. I am currently seeking an AI internship to gain hands-on experience working on real-world projects within a team.</p>
 <h2>🚀 Languages and Tools I Use</h2>
